@@ -1,0 +1,38 @@
+/*CUENTA BBVA*/
+.cuentabbva {
+	font-size: 20px;
+	display: grid;
+	background: #072146;
+	color: #fff !important;
+	border-radius: 4px;
+	line-height: 1.1;
+	padding: 8px 1%;
+	text-transform: uppercase;
+	font-weight: bold;
+	box-shadow: 0 6px 0 #1464a5 !important;
+	transition: all 0.3s ease-in-out;
+	text-align: center !important;
+	text-decoration:none !important;
+}
+.cuentabbva:hover{
+	box-shadow: 0 6px 0 #072146 !important;
+}
+.cuentabbvacci {
+	font-size: 20px;
+	display: grid;
+	background: #1464a5;
+	color: #fff !important;
+	border-radius: 4px;
+	line-height: 1.1;
+	padding: 8px 1%;
+	text-transform: uppercase;
+	font-weight: bold;
+	box-shadow: 0 6px 0 #072146 !important;
+	transition: all 0.3s ease-in-out;
+	text-align: center !important;
+	text-decoration:none !important;
+}
+.cuentabbvacci:hover{
+	box-shadow: 0 6px 0 #1464a5 !important;
+}
+/*CUENTA BBVA*/
